@@ -1,0 +1,156 @@
+[2023-06-17 20:25:29,535-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "p"
+[2023-06-18 20:01:29,258-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 20:03:47,392-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 20:03:59,372-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 20:06:23,681-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 20:12:22,841-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 20:12:34,158-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 20:12:40,296-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 20:14:11,279-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 20:17:01,907-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 20:18:14,163-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 21:36:52,215-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 21:55:48,188-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 21:55:48,441-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 21:55:48,653-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 21:55:48,846-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 22:13:04,900-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 22:13:07,007-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-18 22:13:18,936-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(402 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 20:39:27,788-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.util.Date` from String "2023-06-2312:30:30": not a valid representation (error: Failed to parse Date value '2023-06-2312:30:30': Cannot parse date "2023-06-2312:30:30": while it seems to fit format 'yyyy-MM-dd'T'HH:mm:ss.SSSX', parsing fails (leniency? null))
+[2023-06-19 21:23:08,713-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:10,497-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:11,637-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:11,857-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:12,057-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:12,247-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:12,416-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:12,597-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:12,777-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:12,967-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:13,147-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:23:20,048-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:24:59,819-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:28:03,648-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:28:05,831-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:28:07,544-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:28:15,143-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Barth": not a valid `java.lang.Long` value
+[2023-06-19 21:28:58,514-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Gabriel Acosta": not a valid `java.lang.Long` value
+[2023-06-19 21:45:10,275-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 21:45:26,911-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 21:49:38,283-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 21:51:13,192-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 21:51:20,514-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (CAST(102 AS BIGINT))"
+Referential integrity constraint violation: "FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (CAST(102 AS BIGINT))"; SQL statement:
+delete from odontologos where id=? [23503-214]] [delete from odontologos where id=?]; SQL [delete from odontologos where id=?]; constraint ["FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (CAST(102 AS BIGINT))"; SQL statement:
+delete from odontologos where id=? [23503-214]]
+[2023-06-19 21:52:05,392-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 21:52:08,280-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (CAST(102 AS BIGINT))"
+Referential integrity constraint violation: "FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (CAST(102 AS BIGINT))"; SQL statement:
+delete from odontologos where id=? [23503-214]] [delete from odontologos where id=?]; SQL [delete from odontologos where id=?]; constraint ["FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (CAST(102 AS BIGINT))"; SQL statement:
+delete from odontologos where id=? [23503-214]]
+[2023-06-19 21:52:14,508-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (CAST(102 AS BIGINT))"
+Referential integrity constraint violation: "FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (CAST(102 AS BIGINT))"; SQL statement:
+delete from odontologos where id=? [23503-214]] [delete from odontologos where id=?]; SQL [delete from odontologos where id=?]; constraint ["FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (CAST(102 AS BIGINT))"; SQL statement:
+delete from odontologos where id=? [23503-214]]
+[2023-06-19 21:53:06,534-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1602 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 22:15:16,384-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Content-Type 'text/plain;charset=UTF-8' is not supported
+[2023-06-19 22:23:09,301-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Request method 'POST' is not supported
+[2023-06-19 22:23:17,780-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Content-Type 'text/plain;charset=UTF-8' is not supported
+[2023-06-19 22:25:11,383-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] not-null property references a null or transient value : ClinicaOdontologica.entity.Turno.odontologo
+[2023-06-19 22:26:28,796-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Content-Type 'text/plain;charset=UTF-8' is not supported
+[2023-06-19 22:27:59,100-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Content-Type 'text/plain;charset=UTF-8' is not supported
+[2023-06-19 22:34:39,882-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] detached entity passed to persist: ClinicaOdontologica.entity.Domicilio
+[2023-06-19 22:35:38,094-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Content-Type 'text/plain;charset=UTF-8' is not supported
+[2023-06-19 22:36:04,970-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Content-Type 'text/plain;charset=UTF-8' is not supported
+[2023-06-19 22:36:18,298-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Content-Type 'text/plain;charset=UTF-8' is not supported
+[2023-06-19 22:37:00,044-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] Content-Type 'text/plain;charset=UTF-8' is not supported
+[2023-06-19 22:37:04,343-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 22:37:08,111-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 22:46:47,384-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
+[2023-06-19 22:47:01,236-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] JSON parse error: Cannot construct instance of `ClinicaOdontologica.entity.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('werf')
+[2023-06-19 22:48:11,205-{yyyy-MM-ddHH:mm:ss}] [ ERROR] [GlobalExceptionHandler:17] could not execute statement [Violación de una restricción de Integridad Referencial: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"
+Referential integrity constraint violation: "FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]] [delete from pacientes where id=?]; SQL [delete from pacientes where id=?]; constraint ["FK4OKCQR9IQT2IW6XHY1PPSMO3L: PUBLIC.TURNOS FOREIGN KEY(PACIENTE_ID) REFERENCES PUBLIC.PACIENTES(ID) (CAST(1753 AS BIGINT))"; SQL statement:
+delete from pacientes where id=? [23503-214]]
